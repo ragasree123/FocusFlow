@@ -20,6 +20,9 @@ with Tailwind CSS, this project is an ideal demonstration of clean UI, responsiv
 ## 📦 Installation
 
 git clone https://github.com/your-username/focusflow.git
+
 cd focusflow
+
 npm install
+
 npm start
